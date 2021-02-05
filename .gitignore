@@ -12,7 +12,9 @@ inventory/inventory/settings/prod.py
 static_cdn/
 media_cdn/
 media/
-static/
+#static/
+*.scss
+*.css.map
 
 *.py[cod]
 *$py.class
